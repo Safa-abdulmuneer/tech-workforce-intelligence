@@ -84,3 +84,8 @@ python 02_ml_risk_model.py
 - `confusion_matrix.png` — model accuracy visualization
 - Power BI `.pbix` dashboard — 5 interactive pages
 
+## How to Open the Dashboard
+1. Download `Tech_Workforce_Intelligence.pbix`
+2. Open with Power BI Desktop (free download from Microsoft)
+3. When prompted, point the data source to `layoffs_with_risk.csv`
+4. All 5 pages and visuals will load automatically
